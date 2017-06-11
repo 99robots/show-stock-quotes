@@ -1,0 +1,23 @@
+/*
+ * Created by Kyle Benk
+ * http://kylebenkapps.com
+ *
+ */
+
+.kjb_show_stock_quotes_table {
+	width: 100%;
+	border: none;
+	border-collapse: collapse;
+}
+
+.kjb_show_stock_quotes_table * {
+	border: none;
+}
+
+.kjb_show_stock_quotes_table td {
+	padding-bottom: 3px;
+}
+
+.kjb_show_stock_quotes_error {
+	border: none;
+}
