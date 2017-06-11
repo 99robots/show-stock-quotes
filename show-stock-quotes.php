@@ -79,7 +79,7 @@ class WPsite_Show_Stocks extends WP_Widget {
 			);
 		}
 
-		parent::WP_Widget( false, 'Show Stock Data', $widget_ops );
+		parent::__construct( false, 'Show Stock Data', $widget_ops );
 	}
 
 	/** @see WP_Widget::widget */
