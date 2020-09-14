@@ -1,11 +1,11 @@
 <?php
 /*
  * Plugin Name: Show Stock Quotes
- * Plugin URI: https://99robots.com/docs/show-stock-quotes/
+ * Plugin URI: https://draftpress.com/docs/show-stock-quotes/
  * Description: Display up to 20 stock quotes per portfolio.  Each widget instance is considered a portfolio, so just add more widget instances for more portfolios.
- * Version: 2.3.1
+ * Version: 2.3.2
  * Author: 99 Robots
- * Author URI: https://99robots.com
+ * Author URI: https://draftpress.com
  * License: GPL2
  */
 
@@ -16,9 +16,9 @@ http://www.google.com/intl/en-US/googlefinance/disclaimer/
 
 Data is provided by financial exchanges and may be delayed as specified by financial exchanges or our data providers. Google does not verify any data and disclaims any obligation to do so.
 
-Google, its data or content providers, the financial exchanges and each of their affiliates and business partners (A) expressly disclaim the accuracy, adequacy, or completeness of any data and (B) shall not be liable for any errors, omissions or other defects in, delays or interruptions in such data, or for any actions taken in reliance thereon. Neither Google nor any of our information providers will be liable for any damages relating to your use of the information provided herein. As used here, “business partners” does not refer to an agency, partnership, or joint venture relationship between Google and any such parties.
+Google, its data or content providers, the financial exchanges and each of their affiliates and business partners (A) expressly disclaim the accuracy, adequacy, or completeness of any data and (B) shall not be liable for any errors, omissions or other defects in, delays or interruptions in such data, or for any actions taken in reliance thereon. Neither Google nor any of our information providers will be liable for any damages relating to your use of the information provided herein. As used here, “business partners�? does not refer to an agency, partnership, or joint venture relationship between Google and any such parties.
 
-You agree not to copy, modify, reformat, download, store, reproduce, reprocess, transmit or redistribute any data or information found herein or use any such data or information in a commercial enterprise without obtaining prior written consent. All data and information is provided “as is” for personal informational purposes only, and is not intended for trading purposes or advice. Please consult your broker or financial representative to verify pricing before executing any trade.
+You agree not to copy, modify, reformat, download, store, reproduce, reprocess, transmit or redistribute any data or information found herein or use any such data or information in a commercial enterprise without obtaining prior written consent. All data and information is provided “as is�? for personal informational purposes only, and is not intended for trading purposes or advice. Please consult your broker or financial representative to verify pricing before executing any trade.
 
 Either Google or its third party data or content providers have exclusive proprietary rights in the data and information provided.
 

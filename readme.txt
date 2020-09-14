@@ -1,10 +1,10 @@
 === Show Stock Quotes by 99 Robots ===
-Contributors: 99robots, kjbenk, charliepatel
+Contributors: 99robots, kjbenk, charliepatel, draftpress
 Donate link:
 Tags: stocks, stock quotes, market, money, investing, finance, wall street
-Requires at least: 4.0
-Tested up to: 4.8.0
-Stable tag: 2.3.1
+Requires at least: 4.5
+Tested up to: 5.5.1
+Stable tag: 2.3.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -14,7 +14,7 @@ Display up to 20 stock quotes per portfolio.  Each widget instance is considered
 
 Display up to 20 stock quotes per portfolio.  Each widget instance is considered a portfolio, so just add more widget instances for more portfolios.
 
-Also please check out our other [plugins](https://99robots.com/products/?utm_source=wprepo&utm_medium=show-stock-quotes&utm_campaign=desc) :)
+Also please check out our other [plugins](https://draftpress.com/products/?utm_source=wprepo&utm_medium=show-stock-quotes&utm_campaign=desc) :)
 
 == Installation ==
 
@@ -30,9 +30,12 @@ Upload `show_stock_quotes` to the `/wp-content/plugins/` directory or activate t
 
 This data is provided by Google Finance and per their disclaimer, it can only be used at a noncommercial level.  Also, Google has stated that this API is deprecated and has no exact  shutdown date.
 
-Data is provided by financial exchanges and may be delayed as specified by financial exchanges or our data providers. Google does not verify any data and disclaims any obligation to do so.  Google, its data or content providers, the financial exchanges and each of their affiliates and business partners (A) expressly disclaim the accuracy, adequacy, or completeness of any data and (B) shall not be liable for any errors, omissions or other defects in, delays or interruptions in such data, or for any actions taken in reliance thereon. Neither Google nor any of our information providers will be liable for any damages relating to your use of the information provided herein. As used here, “business partners” does not refer to an agency, partnership, or joint venture relationship between Google and any such parties.  You agree not to copy, modify, reformat, download, store, reproduce, reprocess, transmit or redistribute any data or information found herein or use any such data or information in a commercial enterprise without obtaining prior written consent. All data and information is provided “as is” for personal informational purposes only, and is not intended for trading purposes or advice. Please consult your broker or financial representative to verify pricing before executing any trade.  Either Google or its third party data or content providers have exclusive proprietary rights in the data and information provided.  Please find all listed exchanges and indices covered by Google along with their respective time delays from the table on the left.  Advertisements presented on Google Finance are solely the responsibility of the party from whom the ad originates. Neither Google nor any of its data licensors endorses or is responsible for the content of any advertisement or any goods or services offered therein.
+Data is provided by financial exchanges and may be delayed as specified by financial exchanges or our data providers. Google does not verify any data and disclaims any obligation to do so.  Google, its data or content providers, the financial exchanges and each of their affiliates and business partners (A) expressly disclaim the accuracy, adequacy, or completeness of any data and (B) shall not be liable for any errors, omissions or other defects in, delays or interruptions in such data, or for any actions taken in reliance thereon. Neither Google nor any of our information providers will be liable for any damages relating to your use of the information provided herein. As used here, “business partners�? does not refer to an agency, partnership, or joint venture relationship between Google and any such parties.  You agree not to copy, modify, reformat, download, store, reproduce, reprocess, transmit or redistribute any data or information found herein or use any such data or information in a commercial enterprise without obtaining prior written consent. All data and information is provided “as is�? for personal informational purposes only, and is not intended for trading purposes or advice. Please consult your broker or financial representative to verify pricing before executing any trade.  Either Google or its third party data or content providers have exclusive proprietary rights in the data and information provided.  Please find all listed exchanges and indices covered by Google along with their respective time delays from the table on the left.  Advertisements presented on Google Finance are solely the responsibility of the party from whom the ad originates. Neither Google nor any of its data licensors endorses or is responsible for the content of any advertisement or any goods or services offered therein.
 
 == Changelog ==
+
+= 2.3.2 =
+* UPDATED: Compatible with WordPress 5.5.1
 
 = 2.3.1 =
 * UPDATED: Compatible with WordPress 4.8.0
